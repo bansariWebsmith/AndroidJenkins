@@ -1,0 +1,12 @@
+Work
+Country->India
+Currency->Rs
+Radius->1 Km
+Delivery Time->60 Minutes
+Payment Type->Cash
+Open Time->10:00 AM
+Close Time->10:00 PM
+Minimum Order Value->Rs 100
+Order Placement->On Call
+Special Offer->Not Applicable
+Shop Closed On->Monday
